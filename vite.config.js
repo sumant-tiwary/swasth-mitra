@@ -8,6 +8,6 @@ export default defineConfig({
   // base: "/swasth-mitra",
   server: {
     port: 3000,
-    allowedHosts: ['www.swasthmitra.in']
+    allowedHosts: ['swasthmitra.in', 'www.swasthmitra.in']
   }
 })
